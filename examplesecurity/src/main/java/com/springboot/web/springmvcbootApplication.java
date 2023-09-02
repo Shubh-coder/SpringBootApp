@@ -9,6 +9,8 @@ public class springmvcbootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(springmvcbootApplication.class, args);
 		System.out.println("Hii World");
+		
+		System.out.println("Hi from Sagar");
 	}
 
 }
